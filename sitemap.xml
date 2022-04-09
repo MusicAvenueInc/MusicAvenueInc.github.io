@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://musicavenueinc.github.io/musicavenue.org/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.musicavenue.org/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://musicavenueinc.github.io/musicavenue.org/</loc>
+<loc>https://www.musicavenue.org/</loc>
 </url>
 <url>
-<loc>https://musicavenueinc.github.io/musicavenue.org/about-us-2.html</loc>
+<loc>https://www.musicavenue.org/about-us-2.html</loc>
 <lastmod>2022-04-08T17:22:16-05:00</lastmod>
 <image:image>
-<image:loc>https://musicavenueinc.github.io/musicavenue.org/media/posts/5/glockenspiel3.jpg</image:loc>
+<image:loc>https://www.musicavenue.org/media/posts/5/glockenspiel3.jpg</image:loc>
 <image:title><![CDATA[Baby playing with a glockenspiel]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://musicavenueinc.github.io/musicavenue.org/classes.html</loc>
+<loc>https://www.musicavenue.org/classes.html</loc>
 <lastmod>2022-04-08T19:11:03-05:00</lastmod>
 <image:image>
-<image:loc>https://musicavenueinc.github.io/musicavenue.org/media/posts/2/children_circle.jpg</image:loc>
+<image:loc>https://www.musicavenue.org/media/posts/2/children_circle.jpg</image:loc>
 <image:title><![CDATA[Children playing in a circle]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://musicavenueinc.github.io/musicavenue.org/contact-us.html</loc>
+<loc>https://www.musicavenue.org/contact-us.html</loc>
 <lastmod>2022-04-08T19:11:26-05:00</lastmod>
 <image:image>
-<image:loc>https://musicavenueinc.github.io/musicavenue.org/media/posts/3/children_balloon.jpg</image:loc>
+<image:loc>https://www.musicavenue.org/media/posts/3/children_balloon.jpg</image:loc>
 <image:title><![CDATA[Children playing with a balloon]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://musicavenueinc.github.io/musicavenue.org/home.html</loc>
+<loc>https://www.musicavenue.org/home.html</loc>
 <lastmod>2022-04-08T19:15:40-05:00</lastmod>
 <image:image>
-<image:loc>https://musicavenueinc.github.io/musicavenue.org/media/posts/4/children_bubbles.jpg</image:loc>
+<image:loc>https://www.musicavenue.org/media/posts/4/children_bubbles.jpg</image:loc>
 <image:title><![CDATA[Children playing with bubbles]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://musicavenueinc.github.io/musicavenue.org/media/posts/4/baby_glockenspiel.jpg</image:loc>
+<image:loc>https://www.musicavenue.org/media/posts/4/baby_glockenspiel.jpg</image:loc>
 <image:title><![CDATA[Baby playing with glockenspiel]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://musicavenueinc.github.io/musicavenue.org/media/posts/4/babies_hug-2.jpg</image:loc>
+<image:loc>https://www.musicavenue.org/media/posts/4/babies_hug-2.jpg</image:loc>
 <image:title><![CDATA[Babies hugging]]></image:title>
 </image:image>
 </url>
