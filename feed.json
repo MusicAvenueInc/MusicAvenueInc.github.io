@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "https://www.musicavenue.org/contact-us-2/",
-            "url": "https://www.musicavenue.org/contact-us-2/",
+            "id": "https://www.musicavenue.org/support/",
+            "url": "https://www.musicavenue.org/support/",
             "title": "Support",
             "summary": "Support Support Our Mission Classes provided by Music Avenue are free for&hellip;",
             "content_html": "<h1 class=\"align-center m-sm\"><span style=\"color: #337ab7;\">Support</span></h1>\n<div class=\"grid\">\n<div>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://www.musicavenue.org/media/posts/6/child_ukulele.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://www.musicavenue.org/media/posts/6/responsive/child_ukulele-xs.jpg 300w ,https://www.musicavenue.org/media/posts/6/responsive/child_ukulele-sm.jpg 480w ,https://www.musicavenue.org/media/posts/6/responsive/child_ukulele-md.jpg 768w ,https://www.musicavenue.org/media/posts/6/responsive/child_ukulele-lg.jpg 1024w\"  alt=\"Child playing a ukuele\" width=\"500\" height=\"375\"></figure>\n</div>\n<div class=\"gridContentNoImage\">\n<div class=\"bg-hr bg-hr-16\"> </div>\n<h1 class=\"align-center m-sm\">Support Our Mission</h1>\n<div class=\"bg-hr bg-hr-16\"> </div>\n<p class=\"align-center\">Classes provided by Music Avenue are free for all participants. We are funded by grants and donations. If you would like to financially support our mission to provide equitable access to early childhood music education, you can donate through Givebutter by clicking the button below!</p>\n<br>\n<div class=\"align-div-center\"><!-- Element Name: Static Donate Button -->\n<div givebutter-element-id=\"qpzXmL\"></div>\n</div>\n</div>\n</div>",
@@ -22,11 +22,11 @@
             "tags": [
             ],
             "date_published": "2022-07-08T22:12:16-05:00",
-            "date_modified": "2022-07-09T14:06:33-05:00"
+            "date_modified": "2022-07-09T14:32:23-05:00"
         },
         {
-            "id": "https://www.musicavenue.org/about-us-2/",
-            "url": "https://www.musicavenue.org/about-us-2/",
+            "id": "https://www.musicavenue.org/about-us/",
+            "url": "https://www.musicavenue.org/about-us/",
             "title": "About Us",
             "summary": "About Us Our Story Making music education accessible for all The idea&hellip;",
             "content_html": "<h1 class=\"align-center m-sm\"><span style=\"color: #337ab7;\">About Us</span></h1>\n<div class=\"grid\">\n<div class=\"gridContentNoImage\">\n<div class=\"bg-hr bg-hr-16\"> </div>\n<h1 class=\"align-center m-sm\"><strong>Our Story</strong></h1>\n<div class=\"bg-hr bg-hr-16\"> </div>\n<h3 class=\"align-center mt-md\">Making music education accessible for all</h3>\n<p class=\"\">The idea for Music Avenue emerged in the summer of 2021. Founder Charis Boersma had a new baby in her life and several friends suggested attending parent and child music classes. Charis, a music teacher, loved the concept, but quickly realized that these wonderful classes were not accessible to all families. That same summer, Charis and her little one also experienced some community based family literacy programs that were free and accessible to a wide demographic. These two experiences sparked the concept of Music Avenue, a nonprofit organization focused on bringing music learning opportunities to the community in a way that would be accessible to a broad range of families.</p>\n<p class=\"\">Charis shared her vision with fellow parents, music teachers, and community members in Dane County who valued equity, education, and music. With the excitement and support of the community, Music Avenue incorporated and a board of directors was formed to start building the nonprofit organization. </p>\n<p class=\"\">Family music classes are planned to begin in the summer of 2022. Parents and caregivers will have the opportunity to bring their infants, toddlers, and young children to community spaces where they will learn together under the guidance of passionate music teachers. Music Avenue is primarily funded by grants and partnerships, and families will not be charged any fees to attend. Classes will be held in community spaces such as libraries and parks that are located in neighborhoods where families reside. </p>\n<p class=\"\">Families who wish to attend classes, prospective volunteers, and donors can find out more by <a href=\"https://www.musicavenue.org/contact-us/\">contacting us</a>.</p>\n<p> </p>\n</div>\n<div>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://www.musicavenue.org/media/posts/5/glockenspiel3.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://www.musicavenue.org/media/posts/5/responsive/glockenspiel3-xs.jpg 300w ,https://www.musicavenue.org/media/posts/5/responsive/glockenspiel3-sm.jpg 480w ,https://www.musicavenue.org/media/posts/5/responsive/glockenspiel3-md.jpg 768w ,https://www.musicavenue.org/media/posts/5/responsive/glockenspiel3-lg.jpg 1024w\"  alt=\"Baby playing with a glockenspiel\" width=\"500\" height=\"333\"></figure>\n<div class=\"gridContentNoImage\">\n<div class=\"bg-hr bg-hr-16\"> </div>\n<h1 class=\"align-center m-sm\">Board of Directors</h1>\n<div class=\"bg-hr bg-hr-16\"> </div>\n<div class=\"align-center\">\n<h3 class=\"mb-sm\">President</h3>\n<p class=\"mt-sm\">Charis Boersma</p>\n<h3 class=\"mb-sm\">Treasurer</h3>\n<p class=\"mt-sm\">Joshua Schmidt</p>\n<h3 class=\"mb-sm\">Secretary</h3>\n<p class=\"mt-sm\">Kelsey Glavee</p>\n</div>\n</div>\n</div>\n</div>",
@@ -36,7 +36,7 @@
             "tags": [
             ],
             "date_published": "2022-04-08T15:30:54-05:00",
-            "date_modified": "2022-06-13T15:36:05-05:00"
+            "date_modified": "2022-07-09T14:32:29-05:00"
         },
         {
             "id": "https://www.musicavenue.org/home/",
@@ -50,7 +50,7 @@
             "tags": [
             ],
             "date_published": "2022-04-08T12:31:03-05:00",
-            "date_modified": "2022-06-13T15:27:21-05:00"
+            "date_modified": "2022-07-09T14:32:33-05:00"
         },
         {
             "id": "https://www.musicavenue.org/contact-us/",
@@ -78,7 +78,7 @@
             "tags": [
             ],
             "date_published": "2022-04-08T12:26:11-05:00",
-            "date_modified": "2022-06-13T15:27:39-05:00"
+            "date_modified": "2022-07-09T14:32:39-05:00"
         }
     ]
 }
