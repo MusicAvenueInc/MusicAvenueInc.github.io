@@ -3,7 +3,7 @@
     <title>Music Avenue, Inc.</title>
     <link href="https://www.musicavenue.org/feed.xml" rel="self" />
     <link href="https://www.musicavenue.org" />
-    <updated>2022-07-09T14:32:39-05:00</updated>
+    <updated>2022-07-09T15:21:19-05:00</updated>
     <author>
         <name>Isaac Sung</name>
     </author>
@@ -149,7 +149,7 @@
         <link href="https://www.musicavenue.org/contact-us/"/>
         <id>https://www.musicavenue.org/contact-us/</id>
 
-        <updated>2022-07-08T21:55:37-05:00</updated>
+        <updated>2022-07-09T15:21:19-05:00</updated>
             <summary>
                 <![CDATA[
                     Contact Us Get In Touch! We are still in the planning phases&hellip;
@@ -189,7 +189,8 @@
 <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 <div style="position: absolute; left: -5000px;" aria-hidden="true"><input tabindex="-1" name="b_124e1f191841503ea952c3185_a81c8f1b7b" type="text" value=""></div>
 <div class="optionalParent">
-<div class="clear foot align-center"><input id="mc-embedded-subscribe" class="button" name="subscribe" type="submit" value="Subscribe">
+<div class="clear foot align-center">
+<div class="align-div-center"><input id="mc-embedded-subscribe" class="css-reset button" name="subscribe" type="submit" value="Subscribe"></div>
 <p class="brandingLogo"><a href="http://eepurl.com/h5-gTH" title="Mailchimp - email marketing made easy and fun"><img loading="lazy" src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg" data-is-external-image="true" ></a></p>
 </div>
 </div>
