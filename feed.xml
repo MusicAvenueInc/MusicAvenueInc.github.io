@@ -3,19 +3,54 @@
     <title>Music Avenue, Inc.</title>
     <link href="https://www.musicavenue.org/feed.xml" rel="self" />
     <link href="https://www.musicavenue.org" />
-    <updated>2022-06-13T15:36:05-05:00</updated>
+    <updated>2022-07-09T14:06:33-05:00</updated>
     <author>
         <name>Isaac Sung</name>
     </author>
     <id>https://www.musicavenue.org</id>
 
     <entry>
+        <title>Support</title>
+        <author>
+            <name>Isaac Sung</name>
+        </author>
+        <link href="https://www.musicavenue.org/contact-us-2/"/>
+        <id>https://www.musicavenue.org/contact-us-2/</id>
+
+        <updated>2022-07-09T14:06:33-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Support Support Our Mission Classes provided by Music Avenue are free for&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 class="align-center m-sm"><span style="color: #337ab7;">Support</span></h1>
+<div class="grid">
+<div>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.musicavenue.org/media/posts/6/child_ukulele.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.musicavenue.org/media/posts/6/responsive/child_ukulele-xs.jpg 300w ,https://www.musicavenue.org/media/posts/6/responsive/child_ukulele-sm.jpg 480w ,https://www.musicavenue.org/media/posts/6/responsive/child_ukulele-md.jpg 768w ,https://www.musicavenue.org/media/posts/6/responsive/child_ukulele-lg.jpg 1024w"  alt="Child playing a ukuele" width="500" height="375"></figure>
+</div>
+<div class="gridContentNoImage">
+<div class="bg-hr bg-hr-16"> </div>
+<h1 class="align-center m-sm">Support Our Mission</h1>
+<div class="bg-hr bg-hr-16"> </div>
+<p class="align-center">Classes provided by Music Avenue are free for all participants. We are funded by grants and donations. If you would like to financially support our mission to provide equitable access to early childhood music education, you can donate through Givebutter by clicking the button below!</p>
+<br>
+<div class="align-div-center"><!-- Element Name: Static Donate Button -->
+<div givebutter-element-id="qpzXmL"></div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>About Us</title>
         <author>
             <name>Isaac Sung</name>
         </author>
-        <link href="https://www.musicavenue.org/about-us-2.html"/>
-        <id>https://www.musicavenue.org/about-us-2.html</id>
+        <link href="https://www.musicavenue.org/about-us-2/"/>
+        <id>https://www.musicavenue.org/about-us-2/</id>
 
         <updated>2022-06-13T15:36:05-05:00</updated>
             <summary>
@@ -35,7 +70,7 @@
 <p class="">The idea for Music Avenue emerged in the summer of 2021. Founder Charis Boersma had a new baby in her life and several friends suggested attending parent and child music classes. Charis, a music teacher, loved the concept, but quickly realized that these wonderful classes were not accessible to all families. That same summer, Charis and her little one also experienced some community based family literacy programs that were free and accessible to a wide demographic. These two experiences sparked the concept of Music Avenue, a nonprofit organization focused on bringing music learning opportunities to the community in a way that would be accessible to a broad range of families.</p>
 <p class="">Charis shared her vision with fellow parents, music teachers, and community members in Dane County who valued equity, education, and music. With the excitement and support of the community, Music Avenue incorporated and a board of directors was formed to start building the nonprofit organization. </p>
 <p class="">Family music classes are planned to begin in the summer of 2022. Parents and caregivers will have the opportunity to bring their infants, toddlers, and young children to community spaces where they will learn together under the guidance of passionate music teachers. Music Avenue is primarily funded by grants and partnerships, and families will not be charged any fees to attend. Classes will be held in community spaces such as libraries and parks that are located in neighborhoods where families reside. </p>
-<p class="">Families who wish to attend classes, prospective volunteers, and donors can find out more by <a href="https://www.musicavenue.org/contact-us.html">contacting us</a>.</p>
+<p class="">Families who wish to attend classes, prospective volunteers, and donors can find out more by <a href="https://www.musicavenue.org/contact-us/">contacting us</a>.</p>
 <p> </p>
 </div>
 <div>
@@ -63,8 +98,8 @@
         <author>
             <name>Isaac Sung</name>
         </author>
-        <link href="https://www.musicavenue.org/home.html"/>
-        <id>https://www.musicavenue.org/home.html</id>
+        <link href="https://www.musicavenue.org/home/"/>
+        <id>https://www.musicavenue.org/home/</id>
 
         <updated>2022-06-13T15:27:21-05:00</updated>
             <summary>
@@ -111,10 +146,10 @@
         <author>
             <name>Isaac Sung</name>
         </author>
-        <link href="https://www.musicavenue.org/contact-us.html"/>
-        <id>https://www.musicavenue.org/contact-us.html</id>
+        <link href="https://www.musicavenue.org/contact-us/"/>
+        <id>https://www.musicavenue.org/contact-us/</id>
 
-        <updated>2022-06-13T15:27:17-05:00</updated>
+        <updated>2022-07-08T21:55:37-05:00</updated>
             <summary>
                 <![CDATA[
                     Contact Us Get In Touch! We are still in the planning phases&hellip;
@@ -135,7 +170,37 @@
 <div>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://www.musicavenue.org/media/posts/3/children_balloon.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.musicavenue.org/media/posts/3/responsive/children_balloon-xs.jpg 300w ,https://www.musicavenue.org/media/posts/3/responsive/children_balloon-sm.jpg 480w ,https://www.musicavenue.org/media/posts/3/responsive/children_balloon-md.jpg 768w ,https://www.musicavenue.org/media/posts/3/responsive/children_balloon-lg.jpg 1024w"  alt="Children playing with a balloon" width="500" height="417"></figure>
 </div>
+<!-- Begin Mailchimp Signup Form -->
+<div id="mc_embed_signup" class="gridContentNoImage gridContent-colspan"><form class="validate" action="https://Musicavenue.us17.list-manage.com/subscribe/post?u=124e1f191841503ea952c3185&amp;id=a81c8f1b7b" method="post" novalidate="" target="_blank">
+<div id="mc_embed_signup_scroll">
+<div class="bg-hr bg-hr-16"> </div>
+<h1 class="align-center m-sm">Subscribe</h1>
+<div class="bg-hr bg-hr-16"> </div>
+<p class="align-center">Sign up to receive updates about Music Avenue!</p>
+<div class="indicates-required align-center"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span>: </label> <input id="mce-EMAIL" class="required email" name="EMAIL" type="email" value=""></div>
+<div class="mc-field-group"><label for="mce-FNAME">First Name: </label> <input id="mce-FNAME" class="" name="FNAME" type="text" value=""></div>
+<div class="mc-field-group"><label for="mce-LNAME">Last Name: </label> <input id="mce-LNAME" class="" name="LNAME" type="text" value=""></div>
+<div hidden="true"><input name="tags" type="hidden" value="6730601"></div>
+<div id="mce-responses" class="clear foot">
+<div id="mce-error-response" class="response" style="display: none;"></div>
+<div id="mce-success-response" class="response" style="display: none;"></div>
 </div>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input tabindex="-1" name="b_124e1f191841503ea952c3185_a81c8f1b7b" type="text" value=""></div>
+<div class="optionalParent">
+<div class="clear foot align-center"><input id="mc-embedded-subscribe" class="button" name="subscribe" type="submit" value="Subscribe">
+<p class="brandingLogo"><a href="http://eepurl.com/h5-gTH" title="Mailchimp - email marketing made easy and fun"><img loading="lazy" src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg" data-is-external-image="true" ></a></p>
+</div>
+</div>
+</div>
+</form></div>
+</div>
+<p>
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+<script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+</p>
+<!-- End Mailchimp Signup Form -->
             ]]>
         </content>
     </entry>
@@ -144,8 +209,8 @@
         <author>
             <name>Isaac Sung</name>
         </author>
-        <link href="https://www.musicavenue.org/classes.html"/>
-        <id>https://www.musicavenue.org/classes.html</id>
+        <link href="https://www.musicavenue.org/classes/"/>
+        <id>https://www.musicavenue.org/classes/</id>
 
         <updated>2022-06-13T15:27:39-05:00</updated>
             <summary>
@@ -162,7 +227,7 @@
 <h1 class="align-center m-sm">Coming Soon</h1>
 <div class="bg-hr bg-hr-16"> </div>
 <p class="align-center">We are still in the planning stages, but we hope to have classes ready to go by summer 2022!</p>
-<p class="align-center">If you want to find out more or stay connected, please <a href="https://www.musicavenue.org/contact-us.html">contact us</a>.</p>
+<p class="align-center">If you want to find out more or stay connected, please <a href="https://www.musicavenue.org/contact-us/">contact us</a>.</p>
 </div>
 <div>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://www.musicavenue.org/media/posts/2/children_circle.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.musicavenue.org/media/posts/2/responsive/children_circle-xs.jpg 300w ,https://www.musicavenue.org/media/posts/2/responsive/children_circle-sm.jpg 480w ,https://www.musicavenue.org/media/posts/2/responsive/children_circle-md.jpg 768w ,https://www.musicavenue.org/media/posts/2/responsive/children_circle-lg.jpg 1024w"  alt="Children playing in a circle" width="600" height="400"></figure>

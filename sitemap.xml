@@ -5,7 +5,7 @@
 <loc>https://www.musicavenue.org/</loc>
 </url>
 <url>
-<loc>https://www.musicavenue.org/about-us-2.html</loc>
+<loc>https://www.musicavenue.org/about-us-2/</loc>
 <lastmod>2022-06-13T15:36:05-05:00</lastmod>
 <image:image>
 <image:loc>https://www.musicavenue.org/media/posts/5/glockenspiel3.jpg</image:loc>
@@ -13,7 +13,7 @@
 </image:image>
 </url>
 <url>
-<loc>https://www.musicavenue.org/classes.html</loc>
+<loc>https://www.musicavenue.org/classes/</loc>
 <lastmod>2022-06-13T15:27:39-05:00</lastmod>
 <image:image>
 <image:loc>https://www.musicavenue.org/media/posts/2/children_circle.jpg</image:loc>
@@ -21,15 +21,23 @@
 </image:image>
 </url>
 <url>
-<loc>https://www.musicavenue.org/contact-us.html</loc>
-<lastmod>2022-06-13T15:27:17-05:00</lastmod>
+<loc>https://www.musicavenue.org/contact-us/</loc>
+<lastmod>2022-07-08T21:55:37-05:00</lastmod>
 <image:image>
 <image:loc>https://www.musicavenue.org/media/posts/3/children_balloon.jpg</image:loc>
 <image:title><![CDATA[Children playing with a balloon]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.musicavenue.org/home.html</loc>
+<loc>https://www.musicavenue.org/contact-us-2/</loc>
+<lastmod>2022-07-09T14:06:33-05:00</lastmod>
+<image:image>
+<image:loc>https://www.musicavenue.org/media/posts/6/child_ukulele.jpg</image:loc>
+<image:title><![CDATA[Child playing a ukuele]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.musicavenue.org/home/</loc>
 <lastmod>2022-06-13T15:27:21-05:00</lastmod>
 <image:image>
 <image:loc>https://www.musicavenue.org/media/posts/4/children_bubbles.jpg</image:loc>
