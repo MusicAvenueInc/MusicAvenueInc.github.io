@@ -3,7 +3,7 @@
     <title>Music Avenue, Inc.</title>
     <link href="https://www.musicavenue.org/feed.xml" rel="self" />
     <link href="https://www.musicavenue.org" />
-    <updated>2022-07-09T15:21:19-05:00</updated>
+    <updated>2022-08-20T20:46:03-05:00</updated>
     <author>
         <name>Isaac Sung</name>
     </author>
@@ -213,26 +213,30 @@
         <link href="https://www.musicavenue.org/classes/"/>
         <id>https://www.musicavenue.org/classes/</id>
 
-        <updated>2022-07-09T14:32:39-05:00</updated>
+        <updated>2022-08-20T20:46:03-05:00</updated>
             <summary>
                 <![CDATA[
-                    Classes Coming Soon We are still in the planning stages, but we&hellip;
+                    Classes Fall 2022 Session Music Avenue is excited to announce its first&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h1 class="align-center m-sm"><span style="color: #337ab7;">Classes</span></h1>
-<div class="grid">
-<div class="gridContentNoImage">
+                <div class="post-container">
+<h1 class="align-center m-sm"><span style="color: #337ab7;">Classes</span></h1>
 <div class="bg-hr bg-hr-16"> </div>
-<h1 class="align-center m-sm">Coming Soon</h1>
+<h1 class="align-center m-sm">Fall 2022 Session</h1>
 <div class="bg-hr bg-hr-16"> </div>
-<p class="align-center">We are still in the planning stages, but we hope to have classes ready to go by summer 2022!</p>
+<p class="align-center"><span style="font-weight: 400;">Music Avenue is excited to announce its first family classes! This set of four classes is designed for infants, toddlers, and young children to interact musically with their caregivers. Participants will experience the beauty of artistic movement, steady beat, singing, and listening. Activities are highly interactive and extremely fun! </span></p>
+<p class="align-center"><span style="font-weight: 400;">Classes are offered in partnership with the Sun Prairie Public Library and will be 30 minutes long and held on the library lawn where there is plenty of space for all.</span></p>
+<p class="align-center"><span style="font-weight: 400;"><strong>When</strong>: Four Saturdays at 10 AM,<br>Sept 17<br>Sept 24<br>Oct 1<br>Oct 8<br>(You are welcome to attend as many classes in the set as you would like.)</span></p>
+<p class="align-center"><span style="font-weight: 400;"><strong>Where</strong>: Outside on the library lawn between the children's porch and the library sculpture.</span></p>
+<p class="align-center"><span style="font-weight: 400;"><strong>Who</strong>: These classes are geared for children ages 0-5 and their caregiver(s), but all ages, including older siblings, are welcome and encouraged to attend!</span></p>
+<br>
+<div class="align-div-center"><button class="css-reset button" name="subscribe" type="button" onclick="location.href='https://forms.gle/29ABZ7UjY554z5zY8'">Register</button></div>
+<p class="align-center"><span style="font-weight: 400;">Walk-ins are always welcome!</span></p>
+<p class="align-center"><span style="font-weight: 400;">If the weather is uncooperative, classes will be moved to the library’s community room, and if cancellation is necessary due to any factors, announcements will be posted here and on the library’s event calendar.</span></p>
 <p class="align-center">If you want to find out more or stay connected, please <a href="https://www.musicavenue.org/contact-us/">contact us</a>.</p>
-</div>
-<div>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://www.musicavenue.org/media/posts/2/children_circle.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.musicavenue.org/media/posts/2/responsive/children_circle-xs.jpg 300w ,https://www.musicavenue.org/media/posts/2/responsive/children_circle-sm.jpg 480w ,https://www.musicavenue.org/media/posts/2/responsive/children_circle-md.jpg 768w ,https://www.musicavenue.org/media/posts/2/responsive/children_circle-lg.jpg 1024w"  alt="Children playing in a circle" width="600" height="400"></figure>
-</div>
 </div>
             ]]>
         </content>
