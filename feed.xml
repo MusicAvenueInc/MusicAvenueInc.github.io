@@ -3,7 +3,7 @@
     <title>Music Avenue, Inc.</title>
     <link href="https://www.musicavenue.org/feed.xml" rel="self" />
     <link href="https://www.musicavenue.org" />
-    <updated>2022-08-20T20:46:03-05:00</updated>
+    <updated>2022-08-20T20:50:12-05:00</updated>
     <author>
         <name>Isaac Sung</name>
     </author>
@@ -101,7 +101,7 @@
         <link href="https://www.musicavenue.org/home/"/>
         <id>https://www.musicavenue.org/home/</id>
 
-        <updated>2022-07-09T14:32:33-05:00</updated>
+        <updated>2022-08-20T20:50:12-05:00</updated>
             <summary>
                 <![CDATA[
                     Our Mission Music Avenue, Inc. is a 501(c)(3) nonprofit organization whose mission&hellip;
@@ -135,7 +135,7 @@
 <div class="bg-hr bg-hr-16"> </div>
 <h1 class="align-center m-sm"><strong>Our Services</strong></h1>
 <div class="bg-hr bg-hr-16"> </div>
-<p>We offer free family music classes that focus on infants, toddlers, and young children interacting in music classes with their caregivers.</p>
+<p>We offer <a href="https://www.musicavenue.org/classes/">free family music classes</a> that focus on infants, toddlers, and young children interacting in music classes with their caregivers.</p>
 </div>
 </div>
             ]]>
