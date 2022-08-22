@@ -3,7 +3,7 @@
     <title>Music Avenue, Inc.</title>
     <link href="https://www.musicavenue.org/feed.xml" rel="self" />
     <link href="https://www.musicavenue.org" />
-    <updated>2022-08-20T20:50:12-05:00</updated>
+    <updated>2022-08-21T21:10:55-05:00</updated>
     <author>
         <name>Isaac Sung</name>
     </author>
@@ -149,10 +149,10 @@
         <link href="https://www.musicavenue.org/contact-us/"/>
         <id>https://www.musicavenue.org/contact-us/</id>
 
-        <updated>2022-07-09T15:21:19-05:00</updated>
+        <updated>2022-08-21T21:10:55-05:00</updated>
             <summary>
                 <![CDATA[
-                    Contact Us Get In Touch! We are still in the planning phases&hellip;
+                    Contact Us Get In Touch! Are you interested in attending our classes&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -163,8 +163,7 @@
 <div class="bg-hr bg-hr-16"> </div>
 <h1 class="align-center m-sm">Get In Touch!</h1>
 <div class="bg-hr bg-hr-16"> </div>
-<p class="align-center">We are still in the planning phases of Music Avenue, but we are excited to share our mission and vision with you!</p>
-<p class="align-center">Are you interested in attending our classes with your family? Are you interested in volunteering or donating? We are here to answer any questions you may have. Reach out to us and we’ll respond as soon as we can.</p>
+<p class="align-center">Are you interested in attending <a href="https://www.musicavenue.org/classes/">our classes</a> with your family? Are you interested in volunteering or donating? We are here to answer any questions you may have. Reach out to us and we’ll respond as soon as we can.</p>
 <p class="align-center"><i class="fa-regular fa-envelope"></i> <strong>Email: </strong><a href="mailto:info@musicavenue.org">info@musicavenue.org</a></p>
 </div>
 <div>
