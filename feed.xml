@@ -3,7 +3,7 @@
     <title>Music Avenue, Inc.</title>
     <link href="https://www.musicavenue.org/feed.xml" rel="self" />
     <link href="https://www.musicavenue.org" />
-    <updated>2022-09-25T14:29:56-05:00</updated>
+    <updated>2022-09-27T22:33:34-05:00</updated>
     <author>
         <name>Isaac Sung</name>
     </author>
@@ -52,7 +52,7 @@
         <link href="https://www.musicavenue.org/about-us/"/>
         <id>https://www.musicavenue.org/about-us/</id>
 
-        <updated>2022-07-09T14:32:29-05:00</updated>
+        <updated>2022-09-27T22:33:34-05:00</updated>
             <summary>
                 <![CDATA[
                     About Us Our Story Making music education accessible for all The idea&hellip;
@@ -79,12 +79,13 @@
 <div class="bg-hr bg-hr-16"> </div>
 <h1 class="align-center m-sm">Board of Directors</h1>
 <div class="bg-hr bg-hr-16"> </div>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.musicavenue.org/media/posts/5/board_2022-09.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.musicavenue.org/media/posts/5/responsive/board_2022-09-xs.jpg 300w ,https://www.musicavenue.org/media/posts/5/responsive/board_2022-09-sm.jpg 480w ,https://www.musicavenue.org/media/posts/5/responsive/board_2022-09-md.jpg 768w ,https://www.musicavenue.org/media/posts/5/responsive/board_2022-09-lg.jpg 1024w"  alt="Three board members, Joshua, Charis, and Kelsey" width="500" height="438"></figure>
 <div class="align-center">
-<h3 class="mb-sm">President</h3>
+<h3 class="mb-sm mt-sm">President</h3>
 <p class="mt-sm">Charis Boersma</p>
-<h3 class="mb-sm">Treasurer</h3>
+<h3 class="mb-sm mt-sm">Treasurer</h3>
 <p class="mt-sm">Joshua Schmidt</p>
-<h3 class="mb-sm">Secretary</h3>
+<h3 class="mb-sm mt-sm">Secretary</h3>
 <p class="mt-sm">Kelsey Glavee</p>
 </div>
 </div>
