@@ -5,28 +5,12 @@
 <loc>https://www.musicavenue.org/</loc>
 </url>
 <url>
-<loc>https://www.musicavenue.org/about-us/</loc>
-<lastmod>2023-10-03T21:17:28-05:00</lastmod>
-<image:image>
-<image:loc>https://www.musicavenue.org/media/posts/5/MusicAvenue-70.jpeg</image:loc>
-<image:title><![CDATA[Teacher with an elephant stuffie singing a song about elephants]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://www.musicavenue.org/media/posts/5/board_2022-09.jpg</image:loc>
-<image:title><![CDATA[Three board members, Joshua, Charis, and Kelsey]]></image:title>
-</image:image>
-</url>
-<url>
 <loc>https://www.musicavenue.org/classes/</loc>
-<lastmod>2025-07-13T16:35:29-05:00</lastmod>
+<lastmod>2025-07-18T09:59:51-05:00</lastmod>
 <image:image>
 <image:loc>https://www.musicavenue.org/media/posts/2/MusicAvenue-Session1-20.jpeg</image:loc>
 <image:title><![CDATA[Families gathered around a teacher for a Music Avenue class]]></image:title>
 </image:image>
-</url>
-<url>
-<loc>https://www.musicavenue.org/classes-2/</loc>
-<lastmod>2025-07-13T16:31:34-05:00</lastmod>
 </url>
 <url>
 <loc>https://www.musicavenue.org/contact-us/</loc>
@@ -34,22 +18,6 @@
 <image:image>
 <image:loc>https://www.musicavenue.org/media/posts/3/MusicAvenue-Session1-33.jpeg</image:loc>
 <image:title><![CDATA[Families sitting outside during a Music Avenue class]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://www.musicavenue.org/events/</loc>
-<lastmod>2023-10-03T21:35:29-05:00</lastmod>
-</url>
-<url>
-<loc>https://www.musicavenue.org/events-2/</loc>
-<lastmod>2023-10-03T21:28:10-05:00</lastmod>
-</url>
-<url>
-<loc>https://www.musicavenue.org/events-3/</loc>
-<lastmod>2023-10-03T21:33:18-05:00</lastmod>
-<image:image>
-<image:loc>https://www.musicavenue.org/media/posts/10/zemisrun.png</image:loc>
-<image:title><![CDATA[Zemi's Run event on Sunday, September 17th, 2023]]></image:title>
 </image:image>
 </url>
 <url>
@@ -65,11 +33,43 @@
 </image:image>
 </url>
 <url>
+<loc>https://www.musicavenue.org/about-us/</loc>
+<lastmod>2023-10-03T21:17:28-05:00</lastmod>
+<image:image>
+<image:loc>https://www.musicavenue.org/media/posts/5/MusicAvenue-70.jpeg</image:loc>
+<image:title><![CDATA[Teacher with an elephant stuffie singing a song about elephants]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.musicavenue.org/media/posts/5/board_2022-09.jpg</image:loc>
+<image:title><![CDATA[Three board members, Joshua, Charis, and Kelsey]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://www.musicavenue.org/support/</loc>
 <lastmod>2023-07-28T21:09:09-05:00</lastmod>
 <image:image>
 <image:loc>https://www.musicavenue.org/media/posts/6/MusicAvenue-25.jpeg</image:loc>
 <image:title><![CDATA[Families throwing a scarf in the air during a music class]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.musicavenue.org/classes-2/</loc>
+<lastmod>2025-07-13T16:31:34-05:00</lastmod>
+</url>
+<url>
+<loc>https://www.musicavenue.org/events/</loc>
+<lastmod>2023-10-03T21:35:29-05:00</lastmod>
+</url>
+<url>
+<loc>https://www.musicavenue.org/events-2/</loc>
+<lastmod>2023-10-03T21:28:10-05:00</lastmod>
+</url>
+<url>
+<loc>https://www.musicavenue.org/events-3/</loc>
+<lastmod>2023-10-03T21:33:18-05:00</lastmod>
+<image:image>
+<image:loc>https://www.musicavenue.org/media/posts/10/zemisrun.png</image:loc>
+<image:title><![CDATA[Zemi's Run event on Sunday, September 17th, 2023]]></image:title>
 </image:image>
 </url>
 </urlset>
